@@ -1,6 +1,7 @@
 // WPU Coding Challenge 2024
 // 1/366
 // Level: 8kyu
+// 23 Jan 2021 8:00 PM
 
 // function grow(x) {
 //     let result = x[0];
